@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">SuryeyApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string-array name="array_usage">
+        <item>Select</item>
+        <item>Residential</item>
+        <item>Commercial</item>
+        <item>Industrial</item>
+        <item>Agriculture</item>
+        <item>Mixed</item>
+    </string-array>
+
+    <string-array name="array_occupancystatus">
+        <item>Select</item>
+        <item>Owner</item>
+        <item>Vacant</item>
+        <item>Rented</item>
+    </string-array>
+
+    <string-array name="array_shape">
+        <item>Select</item>
+        <item>Rectangular</item>
+        <item>Irregular</item>
+        <item>Trapezoidal</item>
+    </string-array>
+
+    <string-array name="array_locality">
+        <item>Select</item>
+        <item>High</item>
+        <item>Middle</item>
+        <item>Poor</item>
+    </string-array>
+
+    <string-array name="array_road">
+        <item>Select</item>
+        <item>RCC</item>
+        <item>TAR</item>
+        <item>WBM</item>
+    </string-array>
+
+    <string-array name="array_rescom">
+        <item>Select</item>
+        <item>Residential</item>
+        <item>Commercial</item>
+    </string-array>
+
+    <string-array name="array_areaofconst">
+        <item>Select</item>
+        <item>BF</item>
+        <item>MZ</item>
+        <item>GF</item>
+        <item>FF</item>
+        <item>SF</item>
+        <item>TF</item>
+        <item>4F</item>
+        <item>5F</item>
+    </string-array>
+</resources>

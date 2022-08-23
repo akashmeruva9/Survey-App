@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/zomatored"
+    tools:context=".LoginActivity">
+
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginTop="140dp"
+        app:cardCornerRadius="30dp"
+        android:layout_marginBottom="-30dp"
+        android:backgroundTint="@color/zomatogrey"
+        >
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginTop="150dp"
+        app:cardCornerRadius="30dp"
+        android:layout_marginBottom="-30dp"
+        android:backgroundTint="#D9D9D9"
+        >
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical"
+            android:layout_marginTop="70dp"
+            android:layout_marginBottom="70dp"
+            >
+
+            <TextView
+                android:id="@+id/loginscreen_tv1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Login"
+                android:layout_marginLeft="20dp"
+                android:textColor="@color/black"
+                android:textSize="30dp"
+                app:layout_constraintBottom_toTopOf="@id/emailornumber"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"/>
+
+            <EditText
+                android:id="@+id/emailornumber"
+                android:layout_width="230dp"
+                android:layout_height="50dp"
+                android:layout_marginStart="10dp"
+                android:background="@drawable/custum_input"
+                android:ems="10"
+                android:hint="User ID"
+                android:inputType="textPersonName"
+                android:padding="10dp"
+                android:paddingStart="20dp"
+                android:textColor="@color/black"
+                android:textSize="14sp"
+                android:textColorHint="#636060"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/loginscreen_tv1"
+                app:layout_constraintBottom_toTopOf="@id/password"
+                app:layout_constraintRight_toLeftOf="@id/img1"
+                android:importantForAutofill="no" />
+
+            <EditText
+                android:id="@+id/password"
+                android:layout_width="230dp"
+                android:layout_height="50dp"
+                android:layout_marginStart="10dp"
+                android:background="@drawable/custum_input"
+                android:ems="10"
+                android:hint="Password"
+                android:inputType="textPassword"
+                android:paddingStart="20dp"
+                android:textSize="14sp"
+                android:textColor="@color/black"
+                android:textColorHint="#636060"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/emailornumber"
+                app:layout_constraintRight_toLeftOf="@id/img1"
+                app:layout_constraintBottom_toTopOf="@id/login_button"
+                android:importantForAutofill="no" />
+
+
+            <Button
+                android:id="@+id/login_button"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginEnd="20dp"
+                android:background="@drawable/login_btn_bck"
+                android:text="Login"
+                android:fontFamily="@font/actor"
+                android:textColor="@color/white"
+                android:textAllCaps="false"
+                android:textSize="25dp"
+                app:layout_constraintTop_toBottomOf="@id/password"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toStartOf="parent"/>
+
+
+            <ImageView
+            android:id= "@+id/img1"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="30dp"
+                android:src="@drawable/man1"
+                app:layout_constraintBottom_toTopOf="@id/login_button"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintLeft_toRightOf="@id/emailornumber"
+                app:layout_constraintRight_toRightOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="1.0" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="110dp"
+        android:layout_height="110dp"
+        android:layout_marginTop="90dp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        android:backgroundTint="@color/zomatogrey"
+        app:cardCornerRadius="55dp"
+        >
+        <androidx.cardview.widget.CardView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_gravity="center"
+            app:cardCornerRadius="50dp"
+            >
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/white"
+                android:layout_gravity="center"
+                android:src="@drawable/logo"
+                android:padding="5dp"
+                />
+
+        </androidx.cardview.widget.CardView>
+    </androidx.cardview.widget.CardView>
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

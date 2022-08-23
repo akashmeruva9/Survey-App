@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "683014798257",
+    "firebase_url": "https://suryeyapp-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "suryeyapp",
+    "storage_bucket": "suryeyapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683014798257:android:4a81f6658ecb73be419b90",
+        "android_client_info": {
+          "package_name": "com.arema.suryeyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683014798257-cf169nd5mqsu2on5sv5k8lc5mts7v9of.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arema.suryeyapp",
+            "certificate_hash": "9381a6b61871c0df4c6afa2e71c04d3861b3a63e"
+          }
+        },
+        {
+          "client_id": "683014798257-r5fn532fgbmncvuf3nfvm96n5nr18k2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-rG9mS9Kg_IYqCOsUpkt6o0wU9ertjhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683014798257-r5fn532fgbmncvuf3nfvm96n5nr18k2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

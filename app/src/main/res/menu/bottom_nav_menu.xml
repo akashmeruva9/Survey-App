@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Dashboard"
+        android:icon="@drawable/ic_baseline_dashboard_24"
+        android:id="@+id/dashboardnavigate"
+        />
+
+    <item android:title="Pending"
+        android:icon="@drawable/pending"
+        android:id="@+id/pendingnavigate"
+        />
+
+    <item android:title="Completed"
+        android:icon="@drawable/ic_baseline_file_download_done_24"
+        android:id="@+id/completednavigate"
+        />
+    <item android:title="Whatsaap"
+        android:icon="@drawable/ic_baseline_whatsapp_24"
+        android:id="@+id/whatsaapnavigate"
+        />
+</menu>
