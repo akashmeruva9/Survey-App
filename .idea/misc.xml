@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/projects/SuryeyApp/app/src/main/res/drawable-v24/cancel_btn_bck.xml" value="0.2105" />
+        <entry key="..\:/projects/SuryeyApp/app/src/main/res/drawable-v24/edittext_bck.xml" value="0.171" />
+        <entry key="..\:/projects/SuryeyApp/app/src/main/res/drawable/action_background_curved.xml" value="0.1635" />
+        <entry key="..\:/projects/SuryeyApp/app/src/main/res/drawable/continue_btn_bck.xml" value="0.2105" />
+        <entry key="..\:/projects/SuryeyApp/app/src/main/res/drawable/custum_input.xml" value="0.181" />
+        <entry key="..\:/projects/SuryeyApp/app/src/main/res/drawable/homepagebtn_rounded.xml" value="0.1635" />
+        <entry key="..\:/projects/SuryeyApp/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.148" />
+        <entry key="..\:/projects/SuryeyApp/app/src/main/res/drawable/ic_baseline_arrow_back_ios_24.xml" value="0.174" />
+        <entry key="..\:/projects/SuryeyApp/app/src/main/res/drawable/ic_baseline_dashboard_24.xml" value="0.148" />
+        <entry key="..\:/projects/SuryeyApp/app/src/main/res/drawable/ic_baseline_gps_fixed_24.xml" value="0.148" />
+        <entry key="..\:/projects/SuryeyApp/app/src/main/res/drawable/ic_baseline_grid_on_24.xml" value="0.148" />
+        <entry key="..\:/projects/SuryeyApp/app/src/main/res/drawable/ic_baseline_keyboard_backspace_24.xml" value="0.216" />
+        <entry key="..\:/projects/SuryeyApp/app/src/main/res/drawable/ic_baseline_notifications_24.xml" value="0.1635" />
+        <entry key="..\:/projects/SuryeyApp/app/src/main/res/drawable/ic_baseline_whatsapp_24.xml" value="0.1635" />
+        <entry key="..\:/projects/SuryeyApp/app/src/main/res/drawable/login_btn_bck.xml" value="0.148" />
+        <entry key="..\:/projects/SuryeyApp/app/src/main/res/drawable/nav_background_curved.xml" value="0.148" />
+        <entry key="..\:/projects/SuryeyApp/app/src/main/res/drawable/selector.xml" value="0.148" />
+        <entry key="..\:/projects/SuryeyApp/app/src/main/res/drawable/survey_item_back.xml" value="0.171" />
+        <entry key="..\:/projects/SuryeyApp/app/src/main/res/layout/activity_buildfillform.xml" value="0.20512820512820512" />
+        <entry key="..\:/projects/SuryeyApp/app/src/main/res/layout/activity_buildimageupload.xml" value="0.20512820512820512" />
+        <entry key="..\:/projects/SuryeyApp/app/src/main/res/layout/activity_buildinfo.xml" value="0.20512820512820512" />
+        <entry key="..\:/projects/SuryeyApp/app/src/main/res/layout/activity_carfillform.xml" value="0.176" />
+        <entry key="..\:/projects/SuryeyApp/app/src/main/res/layout/activity_carimageupload.xml" value="0.152" />
+        <entry key="..\:/projects/SuryeyApp/app/src/main/res/layout/activity_carinfo.xml" value="0.20512820512820512" />
+        <entry key="..\:/projects/SuryeyApp/app/src/main/res/layout/activity_details.xml" value="0.20512820512820512" />
+        <entry key="..\:/projects/SuryeyApp/app/src/main/res/layout/activity_fillform.xml" value="0.17617753623188406" />
+        <entry key="..\:/projects/SuryeyApp/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/projects/SuryeyApp/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/projects/SuryeyApp/app/src/main/res/layout/activity_main2.xml" value="0.20512820512820512" />
+        <entry key="..\:/projects/SuryeyApp/app/src/main/res/layout/activity_main3.xml" value="0.20512820512820512" />
+        <entry key="..\:/projects/SuryeyApp/app/src/main/res/layout/activity_notifications.xml" value="0.1935897435897436" />
+        <entry key="..\:/projects/SuryeyApp/app/src/main/res/layout/activity_profile.xml" value="0.20512820512820512" />
+        <entry key="..\:/projects/SuryeyApp/app/src/main/res/layout/completed_item.xml" value="0.20512820512820512" />
+        <entry key="..\:/projects/SuryeyApp/app/src/main/res/layout/dialog_alert.xml" value="0.20512820512820512" />
+        <entry key="..\:/projects/SuryeyApp/app/src/main/res/layout/fragment_completed.xml" value="0.20512820512820512" />
+        <entry key="..\:/projects/SuryeyApp/app/src/main/res/layout/fragment_dashboard.xml" value="0.20512820512820512" />
+        <entry key="..\:/projects/SuryeyApp/app/src/main/res/layout/fragment_pending.xml" value="0.20512820512820512" />
+        <entry key="..\:/projects/SuryeyApp/app/src/main/res/layout/fragment_profile.xml" value="0.20512820512820512" />
+        <entry key="..\:/projects/SuryeyApp/app/src/main/res/layout/fragment_surveys.xml" value="0.20512820512820512" />
+        <entry key="..\:/projects/SuryeyApp/app/src/main/res/layout/fragment_whatsaap.xml" value="0.20512820512820512" />
+        <entry key="..\:/projects/SuryeyApp/app/src/main/res/layout/spinner_layout.xml" value="0.20512820512820512" />
+        <entry key="..\:/projects/SuryeyApp/app/src/main/res/layout/survey_item.xml" value="0.264" />
+        <entry key="..\:/projects/SuryeyApp/app/src/main/res/menu/bottom_nav_menu.xml" value="0.20512820512820512" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
